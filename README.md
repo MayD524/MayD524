@@ -16,6 +16,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="RyanD524's GitHub Stats" src="https://github-readme-stats.ryand524.vercel.app/api?username=ryand524&show_icons=true&hide_border=true" />
+  <img align="left" alt="RyanD524's GitHub Stats" src="https://github-readme-stats.RyanD524.vercel.app/api?username=RyanD524&show_icons=true&hide_border=true" />
 
 </details>
