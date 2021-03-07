@@ -8,3 +8,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me: crossroadsact@gmail.com
 
+## Future Updates!
+- Massive update to UPL. Including home build database and ciphers!
+- Password manager & Better Password manager later
+Small note about password manager is it will be in python the better version in c++.
