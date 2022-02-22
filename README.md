@@ -10,3 +10,6 @@ I also am developing my own language called [BlueScript](https://github.com/MayD
 
 Most of these repos are kinda old, but I may go back and refactor most of them :)<br>
 I also am always looking for fun coding/programing challenges and always looking for people to work with!
+
+If you want to support me:
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/?via=mayd524)
