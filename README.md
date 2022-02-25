@@ -13,3 +13,5 @@ I also am always looking for fun coding/programing challenges and always looking
 
 If you want to support me:<br>
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mayd524)
+
+Owner of ["MayCord"](http://maycord.com)
