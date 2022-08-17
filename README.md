@@ -12,7 +12,9 @@ Most of these repos are kinda old, but I may go back and refactor most of them :
 I also am always looking for fun coding/programing challenges and always looking for people to work with!
 
 If you want to support me:<br>
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mayd524)
-[!["LinkTree"](https://linktr.ee/mayd524)]
+[!LinkTree(https://linktr.ee/mayd524)]
+
+<br>[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mayd524)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayD524&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
