@@ -14,7 +14,7 @@ I also am always looking for fun coding/programing challenges and always looking
 If you want to support me:<br>
 [!LinkTree](https://linktr.ee/mayd524)
 
-<br>[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mayd524)
+<br>[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F6EJNOT)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayD524&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
