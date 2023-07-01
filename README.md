@@ -1,6 +1,6 @@
 ### Hi there, I'm May 👋
 [![wakatime](https://wakatime.com/badge/user/a9ee50af-034e-4d54-beff-351c7a3ae5b0.svg)](https://wakatime.com/@a9ee50af-034e-4d54-beff-351c7a3ae5b0)
-#### I'm a highschool senior, Dual Enrollment Student & Teachers Assistant
+#### I'm a highschool grad, Dual Enrollment Student & Teachers Assistant
 #### Prefered pronouns: They/Them
 <!--
 **RyanD524/RyanD524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
