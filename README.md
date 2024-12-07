@@ -1,4 +1,4 @@
-### Hi there, I'm Ryan but I also go by May 👋
+### Hi there, I'm Ryan 👋
 [![wakatime](https://wakatime.com/badge/user/a9ee50af-034e-4d54-beff-351c7a3ae5b0.svg)](https://wakatime.com/@a9ee50af-034e-4d54-beff-351c7a3ae5b0)
 <!--
 **RyanD524/RyanD524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
